@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Nguyễn%20Như%20Hải%20Đăng&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Founder%2027NetTeam&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://27netteam.id.vn/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=未来技術創造+-+Kiến+Tạo+Công+Nghệ+Tương+Lai;Sinh+viên+PTIT+%C3%97+Rikkei+Education;Full-Stack+%7C+AI+%7C+C%23+WPF+%7C+Made+in+Vietnam" alt="Typing SVG" />
+  <h1>27netteamdotiddotvn</h1>
 </a>
 
 <br/>
